@@ -48,7 +48,7 @@ motion "fade_in_quick" {
 cue {
   in    = 1000
   out   = 5000
-  text  = "Hello, HCL-Subs World!"
+  text  = "Hello, World!"
   style = "default"
   motion_in = ["fade_in_quick"]
 }
