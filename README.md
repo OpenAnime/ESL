@@ -32,7 +32,7 @@ This document details all available blocks, attributes, data types, and conventi
 ```hcl
 meta {
   title       = "Simple Demo"
-  esl_version = "0.1.0"
+  esl_version = "1.1"
   resolution  = [1920, 1080]
   default_style = "default"
 }
