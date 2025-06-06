@@ -22,7 +22,7 @@
 
 The definitive guide to the ESL format, its syntax, and semantics can be found in the official specification:
 
-➡️ **[Read the ESL Specification (Version 1.0)](https://github.com/OpenAnime/ESL/wiki)**
+➡️ **[Read the ESL Specification (Version 1.1)](https://github.com/OpenAnime/ESL/wiki)**
 
 This document details all available blocks, attributes, data types, and conventions for creating valid ESL files.
 
