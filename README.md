@@ -47,12 +47,13 @@ style "default" {
 
 motion "fade_in_quick" {
   duration = 300
-  opacity  = [0, 1]
+  opacity  = 1
 }
 
 cue {
   in    = 1000
   out   = 5000
+  opacity = 0
   text  = "Hello, World!"
   style = "default"
   motion_in = ["fade_in_quick"]
