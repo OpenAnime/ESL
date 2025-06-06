@@ -1,4 +1,9 @@
-# ESL: Expressive Subtitle Language
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c095b953-8dcc-4567-b195-982e439ae003">
+</p>
+<h1 align="center">
+  ESL: Expressive Subtitle Language
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
